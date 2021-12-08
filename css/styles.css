@@ -378,7 +378,7 @@ shadow{box-shadow:0 1px 3px rgba(0,0,0,0.12),0 1px 2px rgba(0,0,0,0.24)}
     
     .education-block h3,.education-block span{float:none}
     
-    .project-image{display:none}.project-info{position:relative;margin:0;padding:30px 15px;top:auto;transform:none}
+    .project-image{display:none;height:100px;width: 100px; overflow: hidden;}.project-info{position:relative;margin:0;padding:30px 15px;top:auto;transform:none}
     
     
     footer{text-align:center}
